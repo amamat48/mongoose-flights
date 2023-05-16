@@ -1,0 +1,1 @@
+For this one I do not know why my destinations array won't populate because I've console.logged everything I could think of as to why it wouldn't be populating. If whoever is grading this could help me out I would greatly appreciate it.
